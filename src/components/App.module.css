@@ -12,3 +12,7 @@
     line-height: 1.17;
     color: var(--primary-text-color);
 }
+
+.text {
+    margin-bottom: 16px;
+}
